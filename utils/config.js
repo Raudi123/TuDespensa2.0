@@ -52,7 +52,7 @@ const CONFIG = {
                     id:5,
                     name: "Lomo deshuesado ",
                     description: "Lb, Importado",
-                    price: 5,20,               
+                    price: 5.20,               
                        image: ""
                 },
                 {
@@ -194,55 +194,64 @@ const CONFIG = {
                     description: "1 uds sabor narnja 1l",
                     price: 1.60,               
                        image: ""
-                },{
+                },
+                {
                     id: 26,
                     name: "Jugo ",
                     description: "6 uds lata 330ml sabor multifrutas",
                     price: 6.50 ,               
                        image: ""
-                },{
+                },
+                {
                     id:27,
                     name: "Malta morena ",
                     description: "24 uds",
                     price: 18,               
                        image: ""
-                },{
+                },
+                {
                     id: 28,
                     name: "Refresco ",
                     description: "Lata 330 ml",
                     price: 1 ,               
                        image: ""
-                },{
+                },
+                {
                     id: 29,
                     name: "Refresco",
                     description: "Pomo 1.5 Lt",
                     price: 1.80 ,               
                        image: ""
-                },{
+                },
+                {
                     id: 30,
                     name: "Pasta de Tomate",
                     description: "800 gr ",
                     price: 3.20,               
                        image: ""
-                },{
+                },
+                {
                     id: 31,
                     name: "pasta de tomate",
                     description: "400 gr",
                     price: 2.60,               
                        image: ""
-                },{
+                },
+                {
                     id: 32,
                     name: "Frijol negro",
                     description: "bolsa de 4 lb",
                     price: 6.50,               
                        image: ""
-                },{
+                },
+                {
                     id: 33,
                     name: "Arroz brasileño",
                     description: "bolsas 1 kg ",
                     price: 2.50,               
                        image: ""
-                },{
+                },
+                {
                     id: 34,
                     name: "Mayonesa celorio",
                     description: "550 gr",
