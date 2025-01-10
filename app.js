@@ -63,7 +63,7 @@ function App() {
                 ) : (
                     <div className="text-center py-12">
                         <h2 className="text-2xl font-bold text-gray-700">
-                            Por favor, selecciona una tienda para ver sus productos
+                            Por favor, selecciona una categoría para ver sus productos
                         </h2>
                     </div>
                 )}
