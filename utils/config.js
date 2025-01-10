@@ -107,163 +107,163 @@ const CONFIG = {
                 {
                     id: 13,
                     name: "Picadillo mixto",
-                    description: "uds",
+                    description: "uds 400gr ",
                     price: 2.50,               
-                       image: ""
+                       image: "picadillo.jpg"
                 },
                 {
                     id: 14,
                     name: "Salchichas ",
                     description: "ud de 12 uds",
                     price: 2.80,               
-                       image: ""
+                       image: "perritos.jpg"
                 },
                 {
                     id: 15,
                     name: "Chorixo vela ",
                     description: "lb, sellado",
                     price: 3.60,               
-                       image: ""
+                       image: "vela.jpg"
                 },
                 {
                     id: 16,
                     name: "Atun",
                     description: "1 kg",
                     price: 16,               
-                       image: ""
+                       image: "atun.jpg"
                 },
                 {
                     id: 17,
                     name: "Cerveza cristal ",
                     description: "1 caja ",
                     price: 22,               
-                       image: ""
+                       image: "cristal.jpg"
                 },
                 {
                     id: 18,
                     name: "cerveza bucanero",
                     description: "24 uds",
                     price: 22,               
-                       image: ""
+                       image: "bucanero.jpg"
                 },
                 {
                     id: 19,
                     name: "Cerveza económica",
                     description: "24 uds",
                     price: 18,               
-                       image: ""
+                       image: "timber.jpg"
                 },
                 {
                     id: 20,
                     name: "Vino Acantus",
                     description: "Tinto, Rosado, Blanco",
                     price: 5,               
-                       image: ""
+                       image: "acantus.jpg"
                 },
                 {
                     id: 21,
                     name: "Vino Espumoso",
                     description: "750 ml",
                     price: 10 ,               
-                       image: ""
+                       image: "espumoso.jpg"
                 },
                 {
                     id: 22,
                     name: "Ron Habana Club",
                     description: "3 años 750 ml",
                     price: 7.50,               
-                       image: ""
+                       image: "3años.jpg"
                 },
                 {
                     id: 23,
                     name: "Malta Guajira",
                     description: "6 uds de 500 ml",
                     price: 6.50,               
-                       image: ""
+                       image: "guajira.jpg"
                 },
                 {
                     id: 24,
                     name: "Jugo ",
                     description: "24 uds sabor pera 200 ml",
                     price: 14.40,               
-                       image: ""
+                       image: "200ml.jfif"
                 },
                 {
                     id: 25,
                     name: "Jugo",
                     description: "1 uds sabor narnja 1l",
                     price: 1.60,               
-                       image: ""
+                       image: "naranja.jpg"
                 },
                 {
                     id: 26,
                     name: "Jugo ",
                     description: "6 uds lata 330ml sabor multifrutas",
                     price: 6.50 ,               
-                       image: ""
+                       image: "multifrutas.jpg"
                 },
                 {
                     id:27,
                     name: "Malta morena ",
                     description: "24 uds",
                     price: 18,               
-                       image: ""
+                       image: "morena.jpg"
                 },
                 {
                     id: 28,
                     name: "Refresco ",
                     description: "Lata 330 ml",
                     price: 1 ,               
-                       image: ""
+                       image: "refrescolata.jpg"
                 },
                 {
                     id: 29,
                     name: "Refresco",
                     description: "Pomo 1.5 Lt",
                     price: 1.80 ,               
-                       image: ""
+                       image: "1.5lt.jpg"
                 },
                 {
                     id: 30,
                     name: "Pasta de Tomate",
                     description: "800 gr ",
                     price: 3.20,               
-                       image: ""
+                       image: "800gr.jpg"
                 },
                 {
                     id: 31,
                     name: "pasta de tomate",
                     description: "400 gr",
                     price: 2.60,               
-                       image: ""
+                       image: "vima.jpg"
                 },
                 {
                     id: 32,
                     name: "Frijol negro",
                     description: "bolsa de 4 lb",
                     price: 6.50,               
-                       image: ""
+                       image: "frijol.jpg"
                 },
                 {
                     id: 33,
                     name: "Arroz brasileño",
                     description: "bolsas 1 kg ",
                     price: 2.50,               
-                       image: ""
+                       image: "arroz.jpg"
                 },
                 {
                     id: 34,
                     name: "Mayonesa celorio",
                     description: "550 gr",
                     price: 6.50 ,               
-                       image: ""
+                       image: "mayonesa.jpg"
                 },
                 {
                     id: 35,
                     name: "Spaguetis",
                     description: "500 gr ",
                     price: 1.55 ,
-                    image: ""
+                    image: "spaguetis.jpg"
                 }
             ]
         },
