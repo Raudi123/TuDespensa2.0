@@ -102,7 +102,7 @@ const CONFIG = {
                     name: "Jamón embuchado",
                     description: "lb, sellado",
                     price: 4,               
-                       image: ""
+                       image: "embuchado.jpg"
                 },
                 {
                     id: 13,
