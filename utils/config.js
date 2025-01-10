@@ -25,77 +25,77 @@ const CONFIG = {
                     name: "Cartón de Huevos",
                     description: "30 uds frescos",
                     price: 13.99,               
-                       image: ""
+                       image: "huevo.jpg"
                 },
                 {
                     id: 2,
                     name: "Pierna de cerdo",
                     description: "x lb calidad y frescura",
                     price: 3.80,               
-                       image: ""
+                       image: "pierna.jpg"
                 },
                 {
                     id:3,
                     name: "Caja de pollo ",
                     description: "33 lb",
                     price: 48,               
-                       image: ""
+                       image: "pollocaja.jpg"
                 },
                 {
                     id: 4,
                     name: "Caja de pollo",
                     description: "40 lb",
-                    price: 40 ,               
-                       image: ""
+                    price: 58 ,               
+                       image: "pollocaja.jpg"
                 },
                 {
                     id:5,
                     name: "Lomo deshuesado ",
                     description: "Lb, Importado",
                     price: 5.20,               
-                       image: ""
+                       image: "lomo.jpg"
                 },
                 {
                     id: 6,
                     name: "Masas de cerdo",
                     description: "Lb, frescas",
                     price: 4.60,               
-                       image: ""
+                       image: "masas.jpg"
                 },
                 {
                     id: 7,
                     name: "Bistec de cerdo",
                     description: "lb, frescos",
                     price:5.20,               
-                       image: ""
+                       image: "bistec.jpg"
                 },
                 {
                     id: 8,
                     name: "Pollo",
                     description: "Lb",
                     price: 1.60,               
-                       image: ""
+                       image: "pollo.jpg"
                 },
                 {
                     id: 9,
                     name: "Jamón vicky",
                     description: "lb,calidad",
                     price: 3.50,               
-                       image: ""
+                       image: "vicky.jpg"
                 },
                 {
                     id: 10,
                     name: "Lomo ahumado sin huesos",
                     description: "lb, envasado loncheado",
                     price: 6.50,               
-                       image: ""
+                       image: "ahumado.jpg"
                 },
                 {
                     id: 11,
                     name: "Pechuga de pollo ",
                     description: "Lb, sellado",
                     price: 5.06,               
-                       image: ""
+                       image: "pechuga.jpg"
                 },
                 {
                     id: 12,
