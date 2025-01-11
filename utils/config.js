@@ -403,17 +403,66 @@ const CONFIG = {
             products: [
                 {
                     id: 1,
-                    name: "Ropa Vieja",
-                    description: "Plato tradicional cubano de carne deshebrada",
-                    price: 12.99,
-                    image: "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=500&q=80"
+                    name: "Jabón",
+                    description: "De olor 100gr",
+                    price: 1.20,
+                    image: "jabon.jpg"
                 },
                 {
                     id: 2,
-                    name: "Arroz con Pollo",
-                    description: "Arroz amarillo con pollo y vegetales",
-                    price: 10.99,
-                    image: "https://images.unsplash.com/photo-1512058556646-c4da40fba323?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=500&q=80"
+                    name: "Papel Higienico",
+                    description: "bolsa de 4 uds ",
+                    price: 2.20,
+                    image: "papel.jpg"
+                },
+                {
+                    id: 3,
+                    name: "Suavizante de ropa",
+                    description: "1L",
+                    price: 6,
+                    image: "suavizante.jpg"
+                },
+                {
+                    id: 4,
+                    name: "Detergente liquido para ropa 4en1",
+                    description: "1L",
+                    price: 5.20,
+                    image: "4en1.jpg"
+                },
+                {
+                    id: 5,
+                    name: "Perlas de olor",
+                    description: " 200gr",
+                    price: 3.50,
+                    image: "perlas.jpg"
+                },
+                {
+                    id: 6,
+                    name: "Pastillas de inodoro",
+                    description: "4 uds",
+                    price: 2.40,
+                    image: "pastillas.jpg"
+                },
+                {
+                    id: 7,
+                    name: "Detergente polvo",
+                    description: "bolsa de 500gr",
+                    price: 2.40,
+                    image: "detergente.jpg"
+                },
+                {
+                    id: 8,
+                    name: "Toallas húmedas",
+                    description: "bolsa de 120 uds",
+                    price: 3.80,
+                    image: "toallas.jpg"
+                },
+                {
+                    id: 9,
+                    name: "Frazada de limpiar suelo",
+                    description: "2 unidades",
+                    price: 2.40,
+                    image: "frazada.jpg"
                 }
             ]
         },
