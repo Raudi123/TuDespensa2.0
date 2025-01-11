@@ -264,6 +264,132 @@ const CONFIG = {
                     description: "500 gr ",
                     price: 1.55 ,
                     image: "spaguetis.jpg"
+                },
+                {
+                    id: 36,
+                    name: "Coditos ",
+                    description: "bolsa 500 gr",
+                    price: 1.55,               
+                       image: "coditos.jpg  "
+                }
+                ,{
+                    id: 37,
+                    name: "Fideos  ",
+                    description: "Bolsa 500gr",
+                    price: 1.90,               
+                       image: "fideos.jpg"
+                },
+                {
+                    id: 38,
+                    name: "Sopas Instantáneas ",
+                    description: "Sobre 75 gr",
+                    price: 1.90,               
+                       image: "sopa.jpg "
+                },
+                {
+                    id: 39,
+                    name: "Aceite de Girasol ",
+                    description: "Botella de 900 ml",
+                    price: 2.80,               
+                       image: "aceite.jpg "
+                },
+                {
+                    id: 40,
+                    name: "Pasta de Bocadito ",
+                    description: "450 ml",
+                    price: 5.80 ,               
+                       image: "bocadito.jpg "
+                },
+                {
+                    id: 41,
+                    name: "Queso Gouda ",
+                    description: "Kg",
+                    price: 13.50,               
+                       image: "queso.jpg "
+                },
+                {
+                    id: 42,
+                    name: "yogurt Probiótico ",
+                    description: "4L ",
+                    price: 15,               
+                       image: "yogurt.jpg "
+                },
+                {
+                    id: 43,
+                    name: "Queso crema  ",
+                    description: "300 gr",
+                    price: 4.20,               
+                       image: "crema.jpg  "
+                },
+                {
+                    id: 44,
+                    name: "Helado ",
+                    description: "4L",
+                    price: 12,               
+                       image: "helado.jpg "
+                },
+                {
+                    id: 45,
+                    name: "Leche en polvo ",
+                    description: "Bolsa de 1 kg",
+                    price: 10,               
+                       image: "lechepolvo.jpg "
+                },
+                {
+                    id: 46,
+                    name: "Leche Condensada ",
+                    description: "lata 390gr",
+                    price: 2.2,               
+                       image: "condensada.jpg"
+                },
+                {
+                    id: 47,
+                    name: "Café",
+                    description: "250 gr",
+                    price: 7.90,               
+                       image: "aroma.jpg "
+                },
+                {
+                    id: 48,
+                    name: "Ajo ",
+                    description: "Bolsa de 10 uds",
+                    price: 4.70,               
+                       image: "ajo.jpg  "
+                },
+                {
+                    id: 49,
+                    name: "Malanga ",
+                    description: "Bolsa de 5 lb",
+                    price: 4.20 ,               
+                       image: "malanga.jpg"
+                },
+                {
+                    id: 50,
+                    name: "Boniato ",
+                    description: "Bolsa de 5 lb",
+                    price: 2.40,               
+                       image: "boniato.jpg "
+                },
+                {
+                    id: 51,
+                    name: "Cebolla  ",
+                    description: "Bolsa de 20 uds",
+                    price: 7,               
+                       image: "cebolla.jpg "
+                },
+                {
+                    id: 52,
+                    name: "tomate ",
+                    description: "Bolsa de 5 lb",
+                    price: 7.40,               
+                       image: "tomates.jpg "
+                },
+                {
+                    id: 53,
+                    name: "Col ",
+                    description: "unidad",
+                    price:1.70,               
+                       image: "col.jpg"
                 }
             ]
         },
