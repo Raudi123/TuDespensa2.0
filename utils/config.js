@@ -476,17 +476,52 @@ const CONFIG = {
             products: [
                 {
                     id: 1,
-                    name: "Flan de Caramelo",
-                    description: "Flan casero con salsa de caramelo",
-                    price: 5.99,
-                    image: "https://images.unsplash.com/photo-1528975604071-b4dc52a2d18c?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=500&q=80"
+                    name: "Split Milexus",
+                    description: "12000 btu (1 ton)",
+                    price: 380 ,
+                    image: "split.jpg"
                 },
                 {
                     id: 2,
-                    name: "Café Cubano",
-                    description: "Café expreso tradicional cubano",
-                    price: 2.99,
-                    image: "https://images.unsplash.com/photo-1521302080334-4bebac2763a6?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&h=500&q=80"
+                    name: "ventilador de pie Milexus",
+                    description: "unidad",
+                    price: 60 ,
+                    image: "ventilador.jpg"
+                },
+                {
+                    id: 3,
+                    name: "Tv 32 pulgadad",
+                    description: "12000 btu (1 ton)",
+                    price: 260 ,
+                    image: "32.jpg"
+                },
+                {
+                    id: 4,
+                    name: "Tv Milexus",
+                    description: "55 pulgadas, smart tv",
+                    price: 450 ,
+                    image: "55.jpg"
+                },
+                {
+                    id: 5,
+                    name: "Batidora 2 en 1 Milexus",
+                    description: "batidora más moledor de sazones",
+                    price: 45,
+                    image: "batidora.jpg"
+                },
+                {
+                    id: 6,
+                    name: "Cafetera Milexus",
+                    description: "6 tazas",
+                    price: 45,
+                    image: "cafetera.jpg"
+                },
+                {
+                    id: 7,
+                    name: "Nevera Milexus ",
+                    description: "5.0 pies cubicos",
+                    price: 350,
+                    image: "nevera.jpg"
                 }
             ]
         }
