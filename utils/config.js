@@ -120,7 +120,7 @@ const CONFIG = {
                 },
                 {
                     id: 15,
-                    name: "Chorixo vela ",
+                    name: "Chorizo vela ",
                     description: "lb, sellado",
                     price: 3.60,               
                        image: "vela.jpg"
