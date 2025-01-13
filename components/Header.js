@@ -4,7 +4,7 @@ function Header({ cartCount, onCartClick }) {
             <header data-name="header" className="bg-gray-800 text-white p-4 shadow-lg"> 
                 <div className="container mx-auto flex justify-between items-center"> 
                     <div className="flex items-center">
-                        <img src="/logo.png" alt="" className="h-8 w-8 mr-2" />
+                        <img src="/logo.jpg" alt="" className="h-8 w-8 mr-2" />
                         <h1 data-name="header-title" className="text-2xl font-bold">TuDespensa.</h1>
                     </div>
                     <button  
