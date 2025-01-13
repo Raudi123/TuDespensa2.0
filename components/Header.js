@@ -3,10 +3,7 @@ function Header({ cartCount, onCartClick }) {
         return ( 
             <header data-name="header" className="bg-gray-800 text-white p-4 shadow-lg"> 
                 <div className="container mx-auto flex justify-between items-center"> 
-                    <div className="flex items-center">
-                        <img src="/vima.jpg" alt="" className="h-8 w-8 mr-2" />
-                        <h1 data-name="header-title" className="text-2xl font-bold">TuDespensa.</h1>
-                    </div>
+                    <h1 data-name="header-title" className="text-2xl font-bold">TuDespensa.</h1> 
                     <button  
                         data-name="cart-button" 
                         onClick={onCartClick} 
@@ -29,4 +26,5 @@ function Header({ cartCount, onCartClick }) {
         return null; 
     } 
 }
+
 

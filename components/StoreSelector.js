@@ -8,7 +8,7 @@ function StoreSelector({ stores, selectedStore, onSelectStore }) {
                         onChange={(e) => onSelectStore(stores.find(s => s.id === e.target.value))}
                         className="w-full p-2 border rounded"
                     >
-                        <option value="">Selecciona una categoría</option>
+                        <option value="">Seleccione una categoría</option>
                         {stores.map(store => (
                             <option key={store.id} value={store.id}>
                                 {store.name}
