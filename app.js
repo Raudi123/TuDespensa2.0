@@ -30,7 +30,7 @@ function App() {
     const handleStoreSelect = (store) => {
         try {
             setSelectedStore(store);
-            setCartItems([]); // Limpiar el carrito al cambiar de tienda
+            // No limpiar el carrito al cambiar de tienda
         } catch (error) {
             reportError(error);
         }
