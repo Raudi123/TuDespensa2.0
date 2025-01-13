@@ -30,7 +30,7 @@ function App() {
     const handleStoreSelect = (store) => {
         try {
             setSelectedStore(store);
-            // No limpiar el carrito al cambiar de tienda
+            setCartItems([]); // Limpiar el carrito al cambiar de tienda
         } catch (error) {
             reportError(error);
         }
@@ -63,7 +63,9 @@ function App() {
                 ) : (
                     <div className="text-center py-12">
                         <h2 className="text-2xl font-bold text-gray-700">
-                            Por favor, seleccione una categoría para ver los productos de esta
+                            Por favor, selecciona una tienda para ver sus productos.
+                            
+                            Recordar que a solo un click de disatncia tiene los productos que tanto añora.
                         </h2>
                     </div>
                 )}
